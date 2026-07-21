@@ -3,7 +3,7 @@
 
 # PicoCTF Write-Ups
 
-> I'm showing the way I solve, not just giving the solution.
+> I'm showing the way I solve challenges, not just giving the solution.
 
 ## Table of Contents
 - [About](#about)
@@ -19,11 +19,15 @@ focusing on *why* I made each decision, not just the final payload.
 | Year | Challenge | Category | Difficulty | Write-up |
 |------|-----------|----------|------------|----------|
 | 2026 | No FA | Web | Medium | [Read](2026/no_FA/no_FA.md) |
+| 2026 | Hashgate | Web | Medium | [Read](2026/hashgate/hashgate.md) |
 
 ## Structure
 ```
 2026/
 └── no_FA/
     ├── no_FA.md
+    └── images/
+└── hashgate/
+    ├── hashgate.md
     └── images/
 ```
