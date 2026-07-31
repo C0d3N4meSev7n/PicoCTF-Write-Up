@@ -11,7 +11,7 @@
 - [Structure](#structure)
 
 ## About
-I'm a university student building toward web application penetration testing. 
+I'm an aspiring web application penetration tester. 
 This repo documents my problem-solving process through CTF challenges — 
 focusing on *why* I made each decision, not just the final payload.
 
