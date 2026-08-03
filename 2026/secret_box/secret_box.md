@@ -44,7 +44,7 @@
     
     ![image.png](images/image%206.png)
     
-- It displays an error contain the query using in this function - An INSERT statement. Normally, INSERT statement can be injected to serve the purpose of capturing someone else secret and send it to where attacker can read.
+- It displays an error containing the query using in this function - An INSERT statement. Normally, INSERT statement can be injected to serve the purpose of capturing someone else secret and send it to where attacker can read.
     
     ![image.png](images/image%207.png)
     
@@ -97,7 +97,7 @@
 ---
 
 - Explanation:
-- I made a big mistake, when used `update secrets set content = 'abc'` , I accidentally overwrote `content` for every row in table `secrets` including the actual flag to `abc` , because I didn’t use `WHERE clause` to specify which user should be overwritten.
+- I made a big mistake, when using `update secrets set content = 'abc'` , I accidentally overwrote `content` for every row in table `secrets` including the actual flag to `abc` , because I didn’t use `WHERE clause` to specify which user should be overwritten.
 - So because this is just a lab, just need to reset the instance, and everything will be alright, (BUT DON’T MAKE THIS MISTAKE IN REAL LIFE)
 - I should have used this `test'); update secrets set content = 'abc' where owner_id = 'MY-ID'--` for testing purpose (`owner_id` has been leaked in the error message before)
 - Or I can just use the complete payload directly to get the flag after resetting the instance.
