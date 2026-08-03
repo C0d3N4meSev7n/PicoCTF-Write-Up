@@ -21,6 +21,7 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | No FA | Web | Medium | [Read](2026/no_FA/no_FA.md) |
 | 2026 | Hashgate | Web | Medium | [Read](2026/hashgate/hashgate.md) |
 | 2026 | Credential Stuffing | Web | Medium | [Read](2026/credential_stuffing/credential_stuffing.md) |
+| 2026 | Secret Box | Web | Medium | [Read](2026/secret_box/secret_box.md) |
 
 ## Structure
 ```
@@ -33,5 +34,8 @@ focusing on *why* I made each decision, not just the final payload.
     └── images/
 └── credential_stuffing/
     ├── credential_stuffing.md
+    └── images/
+└── secret_box/
+    ├── secret_box.md
     └── images/
 ```
