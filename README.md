@@ -22,6 +22,7 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | Hashgate | Web | Medium | [Read](2026/hashgate/hashgate.md) |
 | 2026 | Credential Stuffing | Web | Medium | [Read](2026/credential_stuffing/credential_stuffing.md) |
 | 2026 | Secret Box | Web | Medium | [Read](2026/secret_box/secret_box.md) |
+| 2026 | Fool the Lockout | Web | Medium | [Read](2026/fool_the_lockout/fool_the_lockout.md) |
 
 ## Structure
 ```
@@ -37,5 +38,8 @@ focusing on *why* I made each decision, not just the final payload.
     └── images/
 └── secret_box/
     ├── secret_box.md
+    └── images/
+└── fool_the_lockout/
+    ├── fool_the_lockout.md
     └── images/
 ```
