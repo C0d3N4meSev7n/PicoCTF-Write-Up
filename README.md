@@ -24,6 +24,7 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | Secret Box | Web | Medium | [Read](2026/secret_box/secret_box.md) |
 | 2026 | Fool the Lockout | Web | Medium | [Read](2026/fool_the_lockout/fool_the_lockout.md) |
 | 2026 | Sql Map1 | Web | Medium | [Read](2026/sql_map_1/sql_map_1.md) |
+| 2026 | North-South | Web | Medium | [Read](2026/north-south/north-south.md) |
 
 ## Structure
 ```
@@ -45,5 +46,8 @@ focusing on *why* I made each decision, not just the final payload.
     └── images/
 └── sql_map_1/
     ├── sql_map_1.md
+    └── images/
+└── north-south/
+    ├── north-south.md
     └── images/
 ```
