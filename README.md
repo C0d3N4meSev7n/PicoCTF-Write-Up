@@ -25,6 +25,7 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | Fool the Lockout | Web | Medium | [Read](2026/fool_the_lockout/fool_the_lockout.md) |
 | 2026 | Sql Map1 | Web | Medium | [Read](2026/sql_map_1/sql_map_1.md) |
 | 2026 | North-South | Web | Medium | [Read](2026/north-south/north-south.md) |
+| Mini | Crack the Gate 2 | Web | Medium | [Read](Mini/crack_the_gate_2/crack_the_gate_2.md) |
 
 ## Structure
 ```
@@ -49,5 +50,9 @@ focusing on *why* I made each decision, not just the final payload.
     └── images/
 └── north-south/
     ├── north-south.md
+    └── images/
+Mini/
+└── crack_the_gate_2/
+    ├── crack_the_gate_2.md
     └── images/
 ```
