@@ -24,7 +24,7 @@
     
     ![image.png](images/image%202.png)
     
-- Surprisingly it’s success, then I run a few more tests and come to the conclusion that both of the `login` and `the sign` up allow me to enter EVERYTHING on the input fields.
+- Surprisingly it’s success, then I run a few more tests and come to the conclusion that both of the `Login` and the `Sign up`  allow me to enter EVERYTHING on the input fields.
     
     ![image.png](images/image%203.png)
     
