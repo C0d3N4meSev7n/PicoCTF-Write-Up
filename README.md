@@ -27,6 +27,7 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | North-South | Web | Medium | [Read](2026/north-south/north-south.md) |
 | 2026 | ORDER ORDER | Web | Hard | [Read](2026/order_order/order_order.md) |
 | Mini | Crack the Gate 2 | Web | Medium | [Read](Mini/crack_the_gate_2/crack_the_gate_2.md) |
+| Mini | byp4ss3d | Web | Medium | [Read](Mini/byp4ss3d/byp4ss3d.md) |
 
 ## Structure
 ```
@@ -58,5 +59,8 @@ focusing on *why* I made each decision, not just the final payload.
 Mini/
 └── crack_the_gate_2/
     ├── crack_the_gate_2.md
+    └── images/
+└── byp4ss3d/
+    ├── byp4ss3d.md
     └── images/
 ```
