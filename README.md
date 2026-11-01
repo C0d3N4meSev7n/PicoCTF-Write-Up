@@ -10,23 +10,18 @@
 - [Write-ups](#write-ups)
 
 ## About
-I'm an aspiring web application penetration tester. 
-This repo documents my problem-solving process through CTF challenges — 
-focusing on *why* I made each decision, not just the final payload.
+I'm a self-taught web application security learner working toward a career as a web penetration tester. This repo collects my write-ups for picoCTF web challenges, each told as one continuous narrative: what I noticed, why I tried the next step, and how it led to the flag.
 
 ## Write-ups
-| Year | Challenge | Category | Difficulty | Write-up |
-|------|-----------|----------|------------|----------|
-| 2026 | No FA | Web | Medium | [Read](2026/no_FA/no_FA.md) |
-| 2026 | Hashgate | Web | Medium | [Read](2026/hashgate/hashgate.md) |
-| 2026 | Credential Stuffing | Web | Medium | [Read](2026/credential_stuffing/credential_stuffing.md) |
-| 2026 | Secret Box | Web | Medium | [Read](2026/secret_box/secret_box.md) |
-| 2026 | Fool the Lockout | Web | Medium | [Read](2026/fool_the_lockout/fool_the_lockout.md) |
-| 2026 | Sql Map1 | Web | Medium | [Read](2026/sql_map_1/sql_map_1.md) |
-| 2026 | North-South | Web | Medium | [Read](2026/north-south/north-south.md) |
-| 2026 | ORDER ORDER | Web | Hard | [Read](2026/order_order/order_order.md) |
-
-| Event | Challenge | Category | Difficulty | Write-up |
-|------|-----------|----------|------------|----------|
-| Mini | Crack the Gate 2 | Web | Medium | [Read](Mini/crack_the_gate_2/crack_the_gate_2.md) |
-| Mini | byp4ss3d | Web | Medium | [Read](Mini/byp4ss3d/byp4ss3d.md) |
+| Event | Challenge | Category | Difficulty | Vulnerability |
+|-------|-----------|----------|------------|---------------|
+| 2026 | [No FA](2026/no_FA/no_FA.md) | Web | Medium | Broken Authentication (CWE-287) |
+| 2026 | [Hashgate](2026/hashgate/hashgate.md) | Web | Medium | IDOR (CWE-639) |
+| 2026 | [Credential Stuffing](2026/credential_stuffing/credential_stuffing.md) | Web | Medium | Credential Stuffing (CWE-307) |
+| 2026 | [Secret Box](2026/secret_box/secret_box.md) | Web | Medium | SQL Injection, stacked queries (CWE-89) |
+| 2026 | [Fool the Lockout](2026/fool_the_lockout/fool_the_lockout.md) | Web | Medium | Rate Limit Bypass (CWE-307) |
+| 2026 | [Sql Map1](2026/sql_map_1/sql_map_1.md) | Web | Medium | SQL Injection, UNION-based (CWE-89) |
+| 2026 | [North-South](2026/north-south/north-south.md) | Web | Medium |  |
+| 2026 | [ORDER ORDER](2026/order_order/order_order.md) | Web | Hard |  |
+| Mini | [Crack the Gate 2](Mini/crack_the_gate_2/crack_the_gate_2.md) | Web | Medium |  |
+| Mini | [byp4ss3d](Mini/byp4ss3d/byp4ss3d.md) | Web | Medium |  |
