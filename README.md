@@ -21,7 +21,7 @@ I'm a self-taught web application security learner working toward a career as a 
 | 2026 | [Secret Box](2026/secret_box/secret_box.md) | Web | Medium | SQL Injection, stacked queries (CWE-89) |
 | 2026 | [Fool the Lockout](2026/fool_the_lockout/fool_the_lockout.md) | Web | Medium | Rate Limit Bypass (CWE-307) |
 | 2026 | [Sql Map1](2026/sql_map_1/sql_map_1.md) | Web | Medium | SQL Injection, UNION-based (CWE-89) |
-| 2026 | [North-South](2026/north-south/north-south.md) | Web | Medium |  |
-| 2026 | [ORDER ORDER](2026/order_order/order_order.md) | Web | Hard |  |
-| Mini | [Crack the Gate 2](Mini/crack_the_gate_2/crack_the_gate_2.md) | Web | Medium |  |
-| Mini | [byp4ss3d](Mini/byp4ss3d/byp4ss3d.md) | Web | Medium |  |
+| 2026 | [North-South](2026/north-south/north-south.md) | Web | Medium | Geo-IP Restriction Bypass (CWE-284) |
+| 2026 | [ORDER ORDER](2026/order_order/order_order.md) | Web | Hard | Second-Order SQL Injection (CWE-89) |
+| Mini | [Crack the Gate 2](Mini/crack_the_gate_2/crack_the_gate_2.md) | Web | Medium | Rate Limit Bypass via X-Forwarded-For Spoofing (CWE-348) |
+| Mini | [byp4ss3d](Mini/byp4ss3d/byp4ss3d.md) | Web | Medium | Unrestricted File Upload via .htaccess (CWE-434) |
