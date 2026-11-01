@@ -8,7 +8,6 @@
 ## Table of Contents
 - [About](#about)
 - [Write-ups](#write-ups)
-- [Structure](#structure)
 
 ## About
 I'm an aspiring web application penetration tester. 
@@ -26,41 +25,8 @@ focusing on *why* I made each decision, not just the final payload.
 | 2026 | Sql Map1 | Web | Medium | [Read](2026/sql_map_1/sql_map_1.md) |
 | 2026 | North-South | Web | Medium | [Read](2026/north-south/north-south.md) |
 | 2026 | ORDER ORDER | Web | Hard | [Read](2026/order_order/order_order.md) |
+
+| Event | Challenge | Category | Difficulty | Write-up |
+|------|-----------|----------|------------|----------|
 | Mini | Crack the Gate 2 | Web | Medium | [Read](Mini/crack_the_gate_2/crack_the_gate_2.md) |
 | Mini | byp4ss3d | Web | Medium | [Read](Mini/byp4ss3d/byp4ss3d.md) |
-
-## Structure
-```
-2026/
-└── no_FA/
-    ├── no_FA.md
-    └── images/
-└── hashgate/
-    ├── hashgate.md
-    └── images/
-└── credential_stuffing/
-    ├── credential_stuffing.md
-    └── images/
-└── secret_box/
-    ├── secret_box.md
-    └── images/
-└── fool_the_lockout/
-    ├── fool_the_lockout.md
-    └── images/
-└── sql_map_1/
-    ├── sql_map_1.md
-    └── images/
-└── north-south/
-    ├── north-south.md
-    └── images/
-└── order_order/
-    ├── order_order.md
-    └── images/
-Mini/
-└── crack_the_gate_2/
-    ├── crack_the_gate_2.md
-    └── images/
-└── byp4ss3d/
-    ├── byp4ss3d.md
-    └── images/
-```
