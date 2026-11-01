@@ -1,16 +1,17 @@
 ![Status](https://img.shields.io/badge/status-in--progress-yellow)
 ![Category](https://img.shields.io/badge/category-web--exploitation-blue)
 
-# PicoCTF Write-Ups
+# picoCTF Write-Ups
 
 > I'm showing the way I solve challenges, not just giving the solution.
 
 ## Table of Contents
 - [About](#about)
 - [Write-ups](#write-ups)
+- [Notes](#notes)
 
 ## About
-I'm a self-taught web application security learner working toward a career as a web penetration tester. This repo collects my write-ups for PicoCTF web challenges, each told as one continuous narrative: what I noticed, why I tried the next step, and how it led to the flag.
+I'm a self-taught web application security learner working toward a career as a web penetration tester. This repo collects my write-ups for picoCTF web challenges, each told as one continuous narrative: what I noticed, why I tried the next step, and how it led to the flag.
 
 ## Write-ups
 | Event | Challenge | Category | Difficulty | Vulnerability |
@@ -25,3 +26,8 @@ I'm a self-taught web application security learner working toward a career as a 
 | 2026 | [ORDER ORDER](2026/order_order/order_order.md) | Web | Hard | Second-Order SQL Injection (CWE-89) |
 | Mini | [Crack the Gate 2](Mini/crack_the_gate_2/crack_the_gate_2.md) | Web | Medium | Rate Limit Bypass via X-Forwarded-For Spoofing (CWE-348) |
 | Mini | [byp4ss3d](Mini/byp4ss3d/byp4ss3d.md) | Web | Medium | Unrestricted File Upload via .htaccess (CWE-434) |
+
+## Notes
+
+- Write-ups are for educational purposes and portfolio use. Techniques shown were performed only against picoCTF's challenge environments.
+- Entries are listed in chronological order, with the newest at the bottom.
