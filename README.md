@@ -10,7 +10,7 @@
 - [Write-ups](#write-ups)
 
 ## About
-I'm a self-taught web application security learner working toward a career as a web penetration tester. This repo collects my write-ups for picoCTF web challenges, each told as one continuous narrative: what I noticed, why I tried the next step, and how it led to the flag.
+I'm a self-taught web application security learner working toward a career as a web penetration tester. This repo collects my write-ups for PicoCTF web challenges, each told as one continuous narrative: what I noticed, why I tried the next step, and how it led to the flag.
 
 ## Write-ups
 | Event | Challenge | Category | Difficulty | Vulnerability |
